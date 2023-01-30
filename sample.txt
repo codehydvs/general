@@ -1,0 +1,2 @@
+This is sample text file written by author vikas
+this is my first commit and sample random number 10 20 2 002 02 0 20 
